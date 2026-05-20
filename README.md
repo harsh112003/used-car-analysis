@@ -106,3 +106,13 @@ python data_analysis.py
 ---
 
 *Project by HARSH KUMAR 2022UBT1056 | Targeting Product Analyst / Business Analyst roles*
+
+
+## Product Teardowns
+
+Two product teardowns built alongside this data analysis:
+
+- **Spinny** — Registration City Mismatch and Hub Experience Gap
+- **Pronto** — Partner Assignment Delay, No Live Tracking, Poor Resolution Flow
+
+Both documents are in the `product-teardowns/` folder.
