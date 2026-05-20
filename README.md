@@ -3,6 +3,16 @@
 **Dataset:** 9,582 listings | 11 columns | Kaggle  
 **Tools:** Python, Pandas, Matplotlib, NumPy
 
+
+
+## Files
+
+- `used_car_dataset.csv` — original raw dataset from Kaggle
+- `used_car_clean.csv` — cleaned version with proper quoting, used for MySQL import
+- `data_analysis.py` — Python EDA with 7 charts and 8 business insights
+- `sql_analysis.py` — SQL queries via MySQL connected to Python
+- `product-teardowns/` — Spinny and Pronto product teardown PDFs
+
 ---
 
 ## Problem Statement
